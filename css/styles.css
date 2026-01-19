@@ -1,0 +1,43 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FCFCFC;
+    color: #434455;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2, h3 {
+    color: #2E2F42;
+}
+
+.first-section {
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+}
+
+.link {
+    text-decoration: none;
+    color: #434455;
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team li {
+    background-color: #FFFFFF;
+}
