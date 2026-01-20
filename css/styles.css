@@ -9,7 +9,14 @@ h1 {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: -2%;
+    letter-spacing: 0,02em
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0,02em;
 }
 
 h1, h2 {
@@ -33,7 +40,7 @@ h2, h3 {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0,04em;
 }
 
 .button:hover,
@@ -74,7 +81,7 @@ ul {
     background-color: #2E2F42;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0,02em;
 }
 
 .logo {
@@ -85,7 +92,7 @@ ul {
     color: inherit;
     text-decoration: none;
     line-height: 1.17;
-    letter-spacing: 3%;
+    letter-spacing: 0,03em;
     color: #2E2F42;
 }
 
@@ -102,14 +109,14 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0,02em;
 }
 
 .contacts .link {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0,02em;
 }
 
 .page-nav .link:hover,
@@ -120,19 +127,20 @@ ul {
     color: #404BBF;
     }
 
-    .first-section p,
+    .portfolio p,
     .team p,
     .features p {
        font-size: inherit; 
        line-height: inherit;
        font-weight: 400;
-       letter-spacing: 2%;
+       letter-spacing: 0,02em;
     }
 
-    .first-section h3,
+    .portfolio h3,
     .team h3,
     .features h3 {
         font-size: 20px;
         font-weight: 500;
-        letter-spacing: 2%;
+        letter-spacing: 0,02em;
+        line-height: 1,2;
     }
